@@ -145,10 +145,9 @@ margin-bottom: 30px;
     transition: all 0.4s;
 }
 .del-btn:hover{
-    background-color: #e40606;
+    background-color: #e60a0a;
     cursor: pointer;
 }
-
 .img-toggle{
     position: absolute;
     width: 50%;
